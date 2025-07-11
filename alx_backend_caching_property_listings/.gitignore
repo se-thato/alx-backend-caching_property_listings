@@ -1,0 +1,19 @@
+# Ignore Python virtual environment
+venv/
+virt/
+
+# Ignore environment variables
+.env
+
+# Ignore __pycache__ folders
+__pycache__/
+*.py[cod]
+
+# Ignore Django migration history
+*/migrations/*.pyc
+*/migrations/__pycache__/
+*.sqlite3
+
+# Ignore VS Code config
+.vscode/
+

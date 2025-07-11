@@ -1,0 +1,8 @@
+SECRET_KEY=your-very-secret-django-key
+DEBUG=True
+
+DB_NAME=properties_db
+DB_USER=postgres
+DB_PASSWORD=theplanetisflat
+DB_HOST=localhost
+DB_PORT=5432
